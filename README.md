@@ -4,7 +4,7 @@ Generator of core files for a modular rails application.
 The idea of this gem/repo is to create a practical way do generate files for one rails modular application.
 
 - One global level was added namespaced as "global" that can be changed for any rails module that you prefer.
-- 
+
 ### Installation
 
 Create your rails project
