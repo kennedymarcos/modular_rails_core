@@ -15,7 +15,7 @@ cd YourProjectName
 ```
  Copy the above gem to your Gemfile
  ```sh
-gem "modular_rails_core", :git => "git://github.com/kennedymarcos/modular_rails_core.git"
+gem "modular_rails_core", git: "git://github.com/kennedymarcos/modular_rails_core.git"
 ```
 
 Run bundle
